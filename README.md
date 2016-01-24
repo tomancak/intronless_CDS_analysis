@@ -18,7 +18,6 @@ While procesing the file the script will print:
 > ./annotated_cds_in_one_exon.pl dmel-all-no-analysis-r6.07.gff
 
 Analysing GFF file....
-
 ..............................
 
 and then the list of genes that DO NOT have an intron in the exon that contains a CDS, or in other words the entire CDS is in one exon
